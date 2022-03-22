@@ -15,7 +15,7 @@
               "icon": "./static/images/confluence.png",
               "name": "Confluence",
               "desc": "Confluence, 技术文档",
-              "link": "http://127.0.0.1:8090/",
+              "link": "http://192.168.3.20:3000/",
               "doc": "https://www.atlassian.com/software/confluence"
           },
           {
@@ -26,9 +26,9 @@
           },
           {
               "icon": "./static/images/gitlab.png",
-              "name": "Gitlab",
-              "desc": "gitlab 代码托管",
-              "link": "http://127.0.0.1:8880"
+              "name": "jeepk Gitlab",
+              "desc": "jeepk gitlab 代码托管",
+              "link": "http://103.96.148.28:38080"
           },
           {
               "icon": "./static/images/mysql.svg",
